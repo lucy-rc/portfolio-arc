@@ -21,3 +21,24 @@
     background-color: #303030;
     color: #FFFFFF;
 }
+
+#informacoes {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background-color: #F9F9F9;
+    ;
+}
+
+#blocosInfo {
+    margin: 50px 0px 50px 50px;
+    padding: 25px;
+}
+
+.numInfo {
+    font-size: 40px;
+}
+
+.textoInfo {
+    font-size: 20px;
+}
